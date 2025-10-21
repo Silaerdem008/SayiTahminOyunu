@@ -1,0 +1,10 @@
+C:\Users\SILA\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+C:\Users\SILA\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+C:\Users\SILA\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+C:\Users\SILA\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\SILA\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.Form1.resources
+C:\Users\SILA\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.Properties.Resources.resources
+C:\Users\SILA\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.GenerateResource.cache
+C:\Users\SILA\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+C:\Users\SILA\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb
